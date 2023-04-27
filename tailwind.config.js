@@ -8,7 +8,7 @@ colors:{
 primary:"#e11931",
 lightGray:"#f8f9fa",
 secondary:"	#48bf53",
-gray:"#999999",
+gray:"#4f4f4f",
 yellow:"#ffb805",
 
 },

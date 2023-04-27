@@ -27,4 +27,27 @@
 
 .credit__journey{
     background: url(/dist/img/NEW_Download_Now_Red_Copy_c2ab2fd1d5.png);
+    position: relative;
 }
+
+.requirementsItem{
+
+    background-color: white;
+}
+
+@media (min-width: 56.25em){
+    #tns2 {
+        margin: 0 auto;
+        width: calc(75%);
+        }
+    }
+
+   .testimonials__content{
+
+    width: 917px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    left: 0;
+    background: #e11931
+   }
